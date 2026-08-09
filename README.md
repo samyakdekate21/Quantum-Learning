@@ -1,36 +1,42 @@
-# Quantum Learning – Quantum Randomness Laboratory
+⚛️ Quantum Learning
 
-## Overview
+A hands-on journey into Quantum Computing — learning the concepts, implementing them with code, and documenting the process along the way.
 
-This project demonstrates Quantum Random Number Generation (QRNG) using Qiskit and Jupyter Notebook.
+Welcome to my Quantum Learning repository.
 
-The experiment uses quantum superposition principles to generate random binary outputs and compare them with classical randomness.
+This repository documents my journey of exploring Quantum Computing from the fundamentals to advanced concepts through daily notes, experiments, projects, and practical implementations using Qiskit.
 
-## Features
+The goal is simple: learn → build → document → share.
 
-* Quantum Random Number Generation
-* Histogram Visualization
-* Statistical Analysis
-* Classical vs Quantum Randomness Comparison
+📚 What's Inside?
 
-## Technologies Used
+This repository is organized around three main parts:
 
-* Python
-* Jupyter Notebook
-* Qiskit
-* Qiskit Aer
-* NumPy
-* Matplotlib
+📝 Notes
 
-## Project Structure
+My day-by-day learning notes covering concepts, algorithms, mathematical foundations, and important takeaways.
 
-```text
-Quantum-Learning/
-│
-├── Quantum_Randomness_Lab.ipynb
-├── README.md
-```
+📂 Notes/
 
-## Outcome
+Each day's learning material will be added as the journey progresses.
 
-The project successfully demonstrates near-equal probability distribution of 0 and 1 generated through quantum measurement.
+💻 Projects & Experiments
+
+Practical implementations created while learning Quantum Computing.
+
+Current project:
+
+Quantum Randomness Laboratory
+
+A mini-project exploring Quantum Random Number Generation (QRNG) using Qiskit and Jupyter Notebook.
+
+The project demonstrates:
+
+Quantum superposition
+Quantum measurement
+Random binary generation
+Histogram visualization
+Statistical analysis
+Classical vs Quantum randomness
+
+📓 mini project 1.ipynb

@@ -1,4 +1,4 @@
-﻿# Introduction to Quantum Computing
+# Introduction to Quantum Computing
 
 This module contains eight quantum computing laboratory experiments.
 
@@ -10,14 +10,14 @@ This module contains eight quantum computing laboratory experiments.
 
 | No. | Experiment | Notebook |
 |---|---|---|
-| 01 | Qiskit Installation and Configuration | Coming soon |
-| 02 | Quantum Statevectors | Coming soon |
-| 03 | Inner Products and Tensor Products | Coming soon |
-| 04 | Identity Operators | Coming soon |
-| 05 | Single-Qubit Gates | Coming soon |
-| 06 | CNOT, Phase and SWAP Operations | Coming soon |
-| 07 | Fredkin (Controlled-SWAP) Gate | Coming soon |
-| 08 | Entanglement and Quantum Teleportation | Coming soon |
+| 01 | Qiskit Installation and Configuration | [View Notebook](notebooks/EXP-01-Qiskit-Installation.ipynb) |
+| 02 | Quantum Statevectors | [View Notebook](notebooks/EXP-02-Statevectors.ipynb) |
+| 03 | Inner Products and Tensor Products | [View Notebook](notebooks/EXP-03-Inner-and-Tensor-Products.ipynb) |
+| 04 | Identity Operators | [View Notebook](notebooks/EXP-04-Identity-Operators.ipynb) |
+| 05 | Single-Qubit Gates | [View Notebook](notebooks/EXP-05-Single-Qubit-Gates.ipynb) |
+| 06 | CNOT, Phase and SWAP Operations | [View Notebook](notebooks/EXP-06-Two-Qubit-Gates.ipynb) |
+| 07 | Fredkin (Controlled-SWAP) Gate | [View Notebook](notebooks/EXP-07-Fredkin-Gate.ipynb) |
+| 08 | Entanglement and Quantum Teleportation | [View Notebook](notebooks/EXP-08-Entanglement-and-Teleportation.ipynb) |
 
 ## Tools
 
@@ -28,4 +28,4 @@ This module contains eight quantum computing laboratory experiments.
 
 ## Status
 
-Laboratory manual available. Notebooks are being developed and verified.
+All eight laboratory notebooks have been implemented.

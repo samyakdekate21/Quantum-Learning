@@ -1,6 +1,6 @@
-﻿# Advanced Quantum Algorithms
+# Advanced Quantum Algorithms
 
-This module contains eight quantum computing laboratory experiments.
+This module contains eight quantum computing laboratory experiments implemented using Python and Qiskit.
 
 ## Laboratory Manual
 
@@ -10,22 +10,26 @@ This module contains eight quantum computing laboratory experiments.
 
 | No. | Experiment | Notebook |
 |---|---|---|
-| 01 | Bernstein-Vazirani Algorithm | Coming soon |
-| 02 | Simon's Algorithm | Coming soon |
-| 03 | Grover Search - Two Qubits | Coming soon |
-| 04 | Grover Search - Three Qubits | Coming soon |
-| 05 | Quantum Fourier Transform and Inverse QFT | Coming soon |
-| 06 | Shor's Algorithm - Factoring 15 | Coming soon |
-| 07 | Quantum Kernel Support Vector Machine | Coming soon |
-| 08 | BB84 Quantum Key Distribution Simulation | Coming soon |
+| 01 | Bernstein-Vazirani Algorithm | [View Notebook](notebooks/EXP-01-Bernstein-Vazirani.ipynb) |
+| 02 | Simon's Algorithm | [View Notebook](notebooks/EXP-02-Simons-Algorithm.ipynb) |
+| 03 | Grover Search - Two Qubits | [View Notebook](notebooks/EXP-03-Grover-Two-Qubits.ipynb) |
+| 04 | Grover Search - Three Qubits | [View Notebook](notebooks/EXP-04-Grover-Three-Qubits.ipynb) |
+| 05 | Quantum Fourier Transform and Inverse QFT | [View Notebook](notebooks/EXP-05-QFT-and-Inverse-QFT.ipynb) |
+| 06 | Shor's Algorithm - Factoring 15 Demonstration | [View Notebook](notebooks/EXP-06-Shors-Algorithm.ipynb) |
+| 07 | Quantum Kernel Support Vector Machine | [View Notebook](notebooks/EXP-07-Quantum-SVM.ipynb) |
+| 08 | BB84 Quantum Key Distribution Simulation | [View Notebook](notebooks/EXP-08-BB84-Quantum-Key-Distribution.ipynb) |
 
 ## Tools
 
 - Python
-- Qiskit
+- Qiskit and Qiskit Aer
 - Jupyter Notebook
-- NumPy and Matplotlib, where required
+- NumPy
+- Matplotlib
+- Scikit-learn
 
 ## Status
 
-Laboratory manual available. Notebooks are being developed and verified.
+All eight laboratory notebooks have been implemented.
+
+The Shor's algorithm experiment uses a simplified period-finding demonstration, and the quantum SVM experiment uses simulated quantum kernels.
